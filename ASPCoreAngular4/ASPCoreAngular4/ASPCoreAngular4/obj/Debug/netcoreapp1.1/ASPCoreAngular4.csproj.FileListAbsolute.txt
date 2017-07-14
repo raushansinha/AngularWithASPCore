@@ -1,0 +1,11 @@
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\bin\Debug\netcoreapp1.1\ASPCoreAngular4.deps.json
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\bin\Debug\netcoreapp1.1\ASPCoreAngular4.runtimeconfig.json
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\bin\Debug\netcoreapp1.1\ASPCoreAngular4.runtimeconfig.dev.json
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\obj\Debug\netcoreapp1.1\ASPCoreAngular4.csprojResolveAssemblyReference.cache
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\obj\Debug\netcoreapp1.1\ASPCoreAngular4.AssemblyInfo.cs
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\bin\Debug\netcoreapp1.1\ASPCoreAngular4.dll
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\bin\Debug\netcoreapp1.1\ASPCoreAngular4.pdb
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\bin\Debug\netcoreapp1.1\DAL.dll
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\bin\Debug\netcoreapp1.1\DAL.pdb
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\obj\Debug\netcoreapp1.1\ASPCoreAngular4.dll
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\ASPCoreAngular4\obj\Debug\netcoreapp1.1\ASPCoreAngular4.pdb

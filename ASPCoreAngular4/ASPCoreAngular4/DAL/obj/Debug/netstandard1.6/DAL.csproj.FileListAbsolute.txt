@@ -1,0 +1,7 @@
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\DAL\bin\Debug\netstandard1.6\DAL.deps.json
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\DAL\obj\Debug\netstandard1.6\DAL.csprojResolveAssemblyReference.cache
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\DAL\obj\Debug\netstandard1.6\DAL.AssemblyInfo.cs
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\DAL\bin\Debug\netstandard1.6\DAL.dll
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\DAL\bin\Debug\netstandard1.6\DAL.pdb
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\DAL\obj\Debug\netstandard1.6\DAL.dll
+C:\DATA\WORK\AngularWithASPCore\ASPCoreAngular4\ASPCoreAngular4\DAL\obj\Debug\netstandard1.6\DAL.pdb
